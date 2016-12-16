@@ -1,0 +1,10 @@
+name: RoleplaySigns
+main: io.github.Seashine.roleplaysigns.Roleplaysigns
+version: 1.0
+author: Izzy
+commands:
+   rps:
+      description: Main command
+      usage: /rps
+      permission: RoleplaySigns.use
+      permission-message: You don't have <permission>
